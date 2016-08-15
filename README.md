@@ -1,5 +1,7 @@
 # hapi-node6-hang
 
+Issue confirmed on Node 6.3.1.
+
 ## Instructions
 1. `npm install`
 2. `node index.js`
