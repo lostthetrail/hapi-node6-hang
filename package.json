@@ -1,0 +1,29 @@
+{
+  "name": "hapi-node6-hang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostthetrail/hapi-node6-hang.git"
+  },
+  "engines": {
+    "node": "~6.3.1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lostthetrail/hapi-node6-hang/issues"
+  },
+  "homepage": "https://github.com/lostthetrail/hapi-node6-hang#readme",
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^14.2.0",
+    "hoek": "^4.0.2"
+  }
+}
