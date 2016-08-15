@@ -1,0 +1,1 @@
+# hapi-node6-hang
